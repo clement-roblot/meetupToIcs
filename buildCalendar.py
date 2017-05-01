@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # sudo pip install --upgrade google-api-python-client
-# sudo pip install html2text
+# sudo pip install html2text requests
 
 import requests
 import json
